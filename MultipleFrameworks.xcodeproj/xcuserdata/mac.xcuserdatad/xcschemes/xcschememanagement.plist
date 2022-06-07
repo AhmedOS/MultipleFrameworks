@@ -4,10 +4,78 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AllCalculators.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Calculator.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>CalculatorTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>CalculatorV2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Core.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>MultipleFrameworks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Pi.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Sigma.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>04B8134A2848CAD00010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B813512848CAD00010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B813802848CC000010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B813872848CC000010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B813C42848CD050010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B813E52848CD580010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
