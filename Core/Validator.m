@@ -14,9 +14,9 @@
     return nums.count < 10;
 }
 
-- (NSNumber * _Nullable)sumNumbers:(NSArray <NSNumber *>*)numbers {
-    NSInteger result = [SummationSwift sumWithNums:numbers]; // Call to Swift class
-    return [NSNumber numberWithInteger:result];
-}
+//- (NSNumber * _Nullable)sumNumbers:(NSArray <NSNumber *>*)numbers {
+//    NSInteger result = [SummationSwift sumWithNums:numbers]; // Call to Swift class
+//    return [NSNumber numberWithInteger:result];
+//}
 
 @end

@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXAggregateTarget section */
-		04B81444284C9C510010A4EC /* AllCalculators */ = {
+		04B81444284C9C510010A4EC /* AllFrameworks */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 04B81445284C9C510010A4EC /* Build configuration list for PBXAggregateTarget "AllCalculators" */;
+			buildConfigurationList = 04B81445284C9C510010A4EC /* Build configuration list for PBXAggregateTarget "AllFrameworks" */;
 			buildPhases = (
 			);
 			dependencies = (
 				04B8144B284C9C580010A4EC /* PBXTargetDependency */,
 				04B81449284C9C560010A4EC /* PBXTargetDependency */,
 			);
-			name = AllCalculators;
+			name = AllFrameworks;
 			productName = AllCalculators;
 		};
 /* End PBXAggregateTarget section */
@@ -448,7 +448,7 @@
 				04B813AA2848CC330010A4EC /* Calculator */,
 				04B813DE2848CD570010A4EC /* Core */,
 				04B81425284C9B180010A4EC /* CalculatorV2 */,
-				04B81444284C9C510010A4EC /* AllCalculators */,
+				04B81444284C9C510010A4EC /* AllFrameworks */,
 			);
 		};
 /* End PBXProject section */
@@ -1071,7 +1071,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04B81445284C9C510010A4EC /* Build configuration list for PBXAggregateTarget "AllCalculators" */ = {
+		04B81445284C9C510010A4EC /* Build configuration list for PBXAggregateTarget "AllFrameworks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04B81446284C9C510010A4EC /* Debug */,

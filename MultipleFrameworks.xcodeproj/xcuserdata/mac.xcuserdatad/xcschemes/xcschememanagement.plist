@@ -4,15 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AllCalculators.xcscheme_^#shared#^_</key>
+		<key>AllFrameworks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Calculator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>4</integer>
 		</dict>
 		<key>CalculatorTests.xcscheme_^#shared#^_</key>
 		<dict>
@@ -22,12 +22,12 @@
 		<key>CalculatorV2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Core.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>MultipleFrameworks.xcscheme_^#shared#^_</key>
 		<dict>
@@ -73,6 +73,11 @@
 			<true/>
 		</dict>
 		<key>04B813E52848CD580010A4EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04B81444284C9C510010A4EC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
